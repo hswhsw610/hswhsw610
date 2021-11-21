@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @hswhsw610
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hswhsw610/hswhsw610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m hswhsw610 (or Little Giant as my friends call me)
+- 👀 I’m interested in coding with Java
+- 🌱 I’m currently learning DB things..
+- 💞️ I’m looking to collaborate on developing minecraft minigame server!
+- 📫 Add me on discord : \_LittleGiant\_#2552
